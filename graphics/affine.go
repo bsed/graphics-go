@@ -2,10 +2,10 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package graphics
+package graphicsbse
 
-import (
-	"github.com/BurntSushi/graphics-go/graphics/interp"
+import ( 
+	"github.com/bsed/graphics-go/graphics/interp"
 	"errors"
 	"image"
 	"image/draw"
